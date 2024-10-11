@@ -1,0 +1,11 @@
+Input file for operations
+Line 
+Line 
+Line 
+Line 
+
+,  my lucky numbers
+,  my unlucky numbers
+
+Some !@#$$%^&%&^(){} Special characters
+Total Lines: 

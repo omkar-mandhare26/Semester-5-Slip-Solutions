@@ -1,0 +1,11 @@
+Input file for operations
+Line 2
+Line 3
+Line 4
+Line 5
+
+14, 8 my lucky numbers
+17, 20 my unlucky numbers
+
+Some !@#$$%^&%&^(){} Special characters
+Total Lines: 11
